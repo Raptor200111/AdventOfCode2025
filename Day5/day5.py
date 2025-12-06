@@ -80,4 +80,4 @@ f = open("input.txt")
 #f = open("test.txt")
 
 #print(FreshnessPart1(f)) #result test: 3, input: 720
-print(FreshnessPart2(f)) #result test: 14, input: 
+print(FreshnessPart2(f)) #result test: 14, input: 357608232770687
